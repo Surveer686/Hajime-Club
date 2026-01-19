@@ -233,7 +233,7 @@ VITE_BASE_URL=[http://localhost:5173](http://localhost:5173)
 
 ## ▶️ Running the Project Locally
 
-```bash
+```
 npm install
 npm run dev
 ```
@@ -248,7 +248,7 @@ http://localhost:5173
 
 ## 🧪 Testing
 
-```bash
+```
 npm run test
 ```
 
