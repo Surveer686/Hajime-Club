@@ -1,3 +1,10 @@
+![React](https://img.shields.io/badge/React-18+-61DAFB?style=for-the-badge&logo=react&logoColor=000)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3+-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=fff)
+![Supabase](https://img.shields.io/badge/Supabase-Backend-3FCF8E?style=for-the-badge&logo=supabase&logoColor=000)
+![Vite](https://img.shields.io/badge/Vite-Build_Tool-646CFF?style=for-the-badge&logo=vite&logoColor=fff)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
+
 # 🥋 Hajime Club Website
 
 A modern, full-stack web application built for **Hajime Club**, designed to manage club members, training sessions, announcements, and attendance with secure role-based access (Admin & Student).
