@@ -53,6 +53,14 @@ web_modules/
 # Optional eslint cache
 .eslintcache
 
+# From Repit
+node_modules
+dist
+.DS_Store
+server/public
+vite.config.ts.*
+*.tar.gz
+
 # Optional stylelint cache
 .stylelintcache
 
